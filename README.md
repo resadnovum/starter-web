@@ -9,4 +9,4 @@ Adding a line for a rebasing excample
 
 ###COPYRIGHT
 Git training
-Addin same information
+Addin same information. All rights reserved
