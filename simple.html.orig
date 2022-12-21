@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <!--Copyright git training-->
 <head>
-	<title>A Excample Web Site</title>
+<<<<<<< HEAD
+	<title>Master Tittle</title>
+=======
+	<title>Title realwork</title>
+>>>>>>> realwork
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -15,11 +19,19 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-	 Text for relawork
+<<<<<<< HEAD
+			Master ontent
 		</p>
 	</main>
 	<footer class="container">
 		<p>&copy; Master 2014</p>
+=======
+	 Text for relawork
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Git relwork Training 2014</p>
+>>>>>>> realwork
 	</footer>
 </body>
 </html>

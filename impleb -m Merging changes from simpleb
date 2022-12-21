@@ -1,0 +1,129 @@
+[33mcommit d3264797cc754b8aa6546f413f1a1b05649e6896[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 7761076 60dadc7
+Author: isayevresad <rashad.isayev@novum.tech>
+Date:   Wed Dec 21 15:36:15 2022 +0400
+
+    Merging changes from simpleb
+
+[33mcommit 60dadc7dbb02f0aea82e127a9748384af0e7bb3a[m[33m ([m[1;32msimpleb[m[33m)[m
+Author: isayevresad <rashad.isayev@novum.tech>
+Date:   Wed Dec 21 15:35:29 2022 +0400
+
+    Adding data to hummans.txt
+
+[33mcommit 776107613aea205cf3512e75278cb50cf460f4a9[m
+Author: isayevresad <rashad.isayev@novum.tech>
+Date:   Wed Dec 21 15:31:05 2022 +0400
+
+    Adding instructionns on how contribute
+
+[33mcommit 9fd757cd85fce23459be7b66654cd8c7d4da89b5[m
+Author: isayevresad <rashad.isayev@novum.tech>
+Date:   Wed Dec 21 15:28:44 2022 +0400
+
+    Adding team member to humans.txt
+
+[33mcommit 95a96b95fa5a159863754e064ccf67ab54f348a7[m[33m ([m[1;32madd-copyright[m[33m)[m
+Author: isayevresad <rashad.isayev@novum.tech>
+Date:   Wed Dec 21 15:15:30 2022 +0400
+
+    Addin copyright ommet in README.md
+
+[33mcommit c99b81ffdaa9549fcb43644c729ac53bdbe94e55[m
+Author: isayevresad <rashad.isayev@novum.tech>
+Date:   Wed Dec 21 15:13:16 2022 +0400
+
+    Adding copyright notticed
+
+[33mcommit 2be0fe50a7d61e3a198fc6ed64778981deb56fda[m
+Author: isayevresad <rashad.isayev@novum.tech>
+Date:   Wed Dec 21 14:52:15 2022 +0400
+
+    Changing title if HTML file
+
+[33mcommit 746bee83acc87f9c534abbf2b33e3c089c75f3a2[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: isayevresad <rashad.isayev@novum.tech>
+Date:   Wed Dec 21 14:33:05 2022 +0400
+
+    Update repo with changes
+
+[33mcommit 9d1115f7087a77d814dd9810bd7f9c9e816067a7[m
+Author: isayevresad <rashad.isayev@novum.tech>
+Date:   Wed Dec 21 13:02:56 2022 +0400
+
+    Adding new section readme.md
+
+[33mcommit 79c15ab97d098f76ccf16d28eada9f434305526f[m
+Author: isayevresad <rashad.isayev@novum.tech>
+Date:   Wed Dec 21 13:00:36 2022 +0400
+
+    Addin some data to README.md
+
+[33mcommit 1903c0c38fe29b080f7a5aa71ca674cb10550255[m
+Author: isayevresad <rashad.isayev@novum.tech>
+Date:   Wed Dec 21 11:41:38 2022 +0400
+
+    Adding .gitignore
+
+[33mcommit 39d4a8b4efc1b793d84714b91968fbf52bf31ad9[m
+Author: isayevresad <rashad.isayev@novum.tech>
+Date:   Wed Dec 21 11:27:30 2022 +0400
+
+    Adding gitignore file
+
+[33mcommit 5267bf976215366baac6ae0671736e5f8ffd0c42[m
+Author: isayevresad <rashad.isayev@novum.tech>
+Date:   Wed Dec 21 10:52:37 2022 +0400
+
+    deleting lecel1 and all children
+
+[33mcommit 3f3b10d1f83a6863a0fe4514d645b23354221571[m
+Author: isayevresad <rashad.isayev@novum.tech>
+Date:   Wed Dec 21 10:48:16 2022 +0400
+
+    deleted hipster.txt
+
+[33mcommit fe6a9914afa4ce52e65ee9e7de5d4743a8797a2f[m
+Author: isayevresad <rashad.isayev@novum.tech>
+Date:   Wed Dec 21 10:04:23 2022 +0400
+
+    level3 renamed
+
+[33mcommit acb8e93fb615aa0dea838b73e2fd62bdf142e2b0[m
+Author: isayevresad <rashad.isayev@novum.tech>
+Date:   Wed Dec 21 09:52:25 2022 +0400
+
+    Rename level2-file.txt
+
+[33mcommit c223ae1ebfb1ef70106f5d79691eae4bc901f26e[m
+Author: isayevresad <rashad.isayev@novum.tech>
+Date:   Tue Dec 20 23:12:59 2022 +0400
+
+    My first commit
+
+[33mcommit 4beb7f097b54ab7cf08daf17972c3ab14432ae24[m
+Merge: 5c05047 e73f914
+Author: Jason Taylor <jason@jasongtaylor.com>
+Date:   Wed Sep 2 02:39:19 2015 -0400
+
+    Merge pull request #6 from jasongtaylor/feature-readme
+    
+    Adding README file
+
+[33mcommit e73f9147e78331b2ea746dc43de5a44953766a76[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:25:18 2015 -0400
+
+    Adding Purpose section to README
+
+[33mcommit 34f563b40c4c1519026d2e881c75e97728c45502[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:06:05 2015 -0400
+
+    Adding README file
+
+[33mcommit 5c05047e53ecd0913a6f10000014d38829aaecdc[m
+Author: Jason Taylor <jason@screencasts.pro>
+Date:   Thu Sep 11 22:14:19 2014 -0400
+
+    Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
