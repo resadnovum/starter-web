@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-Adding a line for a rebasing excample
+Adding a line for a rebasing excample,
+Updating for emergency afterm fix stashing
 ## Purpose
 
 ## Deployment
